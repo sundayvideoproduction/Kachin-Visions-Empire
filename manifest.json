@@ -1,9 +1,0 @@
-{
-  "name": "QuickChat Messenger",
-  "short_name": "QuickChat",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#6a11cb",
-  "theme_color": "#6a11cb",
-  "icons": []
-}
